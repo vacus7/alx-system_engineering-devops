@@ -1,1 +1,1 @@
-Shell readme
+where am i
